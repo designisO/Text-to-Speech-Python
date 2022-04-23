@@ -1,0 +1,8 @@
+comtypes==1.1.11
+greenlet==1.1.2
+mysql-connector-python==8.0.28
+pypiwin32==223
+pyttsx3==2.90
+pywin32==303
+SpeechRecognition==3.8.1
+SQLAlchemy==1.4.35
